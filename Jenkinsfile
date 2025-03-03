@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage("A"){
             steps{
-                echo "=====done and completed======"
+                echo "===polling working=done and completed======"
             }
         }
     }
